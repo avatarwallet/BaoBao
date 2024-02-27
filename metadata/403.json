@@ -1,0 +1,22 @@
+{
+    "image": "https://raw.githubusercontent.com/avatarwallet/BaoBao/main/images/403.gif",
+    "external_url":"https://blockbao.io",
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": 4
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Mythical creatures"
+        },
+        {
+            "trait_type": "Name",
+            "value": "Glorious Kirin"
+        }
+    ]
+}

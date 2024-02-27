@@ -1,0 +1,22 @@
+{
+    "image": "https://raw.githubusercontent.com/avatarwallet/BaoBao/main/images/501.gif",
+    "external_url":"https://blockbao.io",
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": 5
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Divine"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Divine god or godess"
+        },
+        {
+            "trait_type": "Name",
+            "value": "Hathor"
+        }
+    ]
+}

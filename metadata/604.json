@@ -1,0 +1,22 @@
+{
+    "image": "https://raw.githubusercontent.com/avatarwallet/BaoBao/main/images/604.gif",
+    "external_url":"https://blockbao.io",
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": 6
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Worldly"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Worldly Wonder"
+        },
+        {
+            "trait_type": "Name",
+            "value": "The Abyss"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "image": "https://raw.githubusercontent.com/avatarwallet/BaoBao/main/images/202.gif",
+    "external_url":"https://blockbao.io",
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": 2
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Legendary Artifacts"
+        },
+        {
+            "trait_type": "Name",
+            "value": "Mjölnir"
+        }
+    ]
+}
