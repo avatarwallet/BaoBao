@@ -1,22 +1,22 @@
 {
-    "image": "https://raw.githubusercontent.com/avatarwallet/BaoBao/nftV2/images/402.png",
+    "image": "https://raw.githubusercontent.com/avatarwallet/BaoBao/nftV2/images/0.png",
     "external_url":"https://blockbao.io",
     "attributes": [
         {
             "trait_type": "Level",
-            "value": 4
+            "value": 0
         },
         {
             "trait_type": "Rarity",
-            "value": "Mythical"
+            "value": "UNKNOWN"
         },
         {
             "trait_type": "Type",
-            "value": "Mythical creatures"
+            "value": "UNKNOWN"
         },
         {
             "trait_type": "Name",
-            "value": "Protecting Feathered Serpent"
+            "value": "UNKNOWN"
         }
     ]
 }
